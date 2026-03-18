@@ -2346,11 +2346,12 @@
  
 .quote-btn {
   padding: 12px 25px;
-  background: green;
+  background: rgb(2, 36, 2);
   color: white;
   border: none;
   border-radius: 6px;
   cursor: pointer;
+  
   transition: 0.3s;
 }
 
